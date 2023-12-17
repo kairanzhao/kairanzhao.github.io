@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Kairan Zhao"
 title_separator          : "-"
-name                     : &name "Kairan Zhao"
-description              : &description "PhD student in Machine Learning"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://kairanzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kairanzhao/kairanzhao.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kairan.zhao@warwick.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kairanzhao"
+  github           : "/kairanzhao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/kairan-zhao"
+  LinkedIn         : "kairan-zhao"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
