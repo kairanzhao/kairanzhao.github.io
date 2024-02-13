@@ -26,6 +26,9 @@ My research interests lie in machine unlearning, machine learning privacy and wh
 
 
 
-For more info
+Miscellaneous
 ------
+I'm a big fan of (almost all) sports. My latest obsession is archery—and I'm sticking to it like an arrow to a target 🏹
+
+
 
