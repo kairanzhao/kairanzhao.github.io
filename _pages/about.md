@@ -19,9 +19,9 @@ My research interests lie in machine unlearning, machine learning privacy and wh
 
 **News**
 ======
-\[**Sep 2023**\] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
+**Sep 2023** Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
 
-\[**Jan 2023**\] I started my PhD in machine learning at the University of Warwick!
+**Jan 2023** I started my PhD in machine learning at the University of Warwick!
 
 
 
