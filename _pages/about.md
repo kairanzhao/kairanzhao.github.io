@@ -15,7 +15,12 @@ More info about my background can be found in my [CV](../assets/CV-Kairan Zhao.p
 
 **Research Interests**
 ======
-Machine Unlearning
+My research interests lie in machine unlearning, machine learning privacy and where these two fields connect.
+
+**News**
+======
+[**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
+[**Jan 2023**] I started my PhD in machine learning at the University of Warwick!
 
 
 
