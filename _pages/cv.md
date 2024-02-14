@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV available in PDF format.](/assets/CV-Kairan Zhao.pdf)
+[CV available in PDF format](/assets/CV-Kairan Zhao.pdf)
 
 <!-- Education
 ======
