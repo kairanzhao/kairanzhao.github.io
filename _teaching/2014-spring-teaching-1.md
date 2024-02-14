@@ -1,5 +1,5 @@
 ---
-title: [CS130](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs130/) Mathematics for Computer Scientists
+title: [CS130 Mathematics for Computer Scientists](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs130/)
 collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
