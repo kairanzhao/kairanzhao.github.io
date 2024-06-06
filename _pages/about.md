@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Machine Learning at the University of Warwick supervised by [Prof. Peter Triantafillou](https://warwick.ac.uk/fac/sci/dcs/people/peter_triantafillou/).
+I am a PhD candidate in Machine Learning at the University of Warwick supervised by [Prof. Peter Triantafillou](https://warwick.ac.uk/fac/sci/dcs/people/peter_triantafillou/). My current research is in the area of machine unlearning.
+
+
+I received my master's degree in Control Engineering from Xi'an Jiaotong University, under the supervision of [Prof. Chao Shen](https://gr.xjtu.edu.cn/web/cshen/home), [Prof. Meng Zhang](https://gr.xjtu.edu.cn/web/mengzhang2009) and [Prof. Xiaohong Guan](https://ieeecss.org/contact/xiaohong-guan). I also hold a diplôme d’ingénieur from [École Centrale de Lille](https://centralelille.fr/en/) de Lille in France.
+
 
 More info about my background can be found in my [CV](../assets/CV-Kairan Zhao.pdf).
 
@@ -16,7 +20,9 @@ More info about my background can be found in my [CV](../assets/CV-Kairan Zhao.p
 
 <!-- ====== -->
 
-My research interests lie in machine unlearning, machine learning privacy and where these two fields connect.
+My research interests lie in machine unlearning, privacy, security and where these fields connect.
+I'm particularly interested in understanding how memorization, generalization, and representation in neural networks impact both learning and unlearning processes.
+
 
 ## News
 <!-- ------ -->
