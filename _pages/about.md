@@ -34,4 +34,6 @@ I'm particularly interested in understanding how memorization, generalization, a
 
 ## Miscellaneous
 
-I'm a big fan of (almost all) sports. My latest obsession is archery—and I'm sticking to it like an arrow to a target 🏹
+Ex-guitarist, current drum learner. 
+I'm a big fan of (almost all) sports. My latest obsession is archery 🏹
+<!-- —and I'm sticking to it like an arrow to a target  -->
