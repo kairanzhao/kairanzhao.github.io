@@ -35,5 +35,6 @@ I'm particularly interested in understanding how memorization, generalization, a
 ## Miscellaneous
 
 Ex-guitarist, current drum learner. 
+
 I'm a big fan of (almost all) sports, and my latest obsession is archery 🏹
 <!-- —and I'm sticking to it like an arrow to a target  -->
