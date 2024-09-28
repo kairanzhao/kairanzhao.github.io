@@ -11,7 +11,8 @@ author_profile: true
 **Kairan Zhao**, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou. 
 *NeurIPS 2024.* -->
 
-- **What makes unlearning hard and what to do about it** [[arXiv](https://arxiv.org/pdf/2406.01257)]  
+<!-- - **What makes unlearning hard and what to do about it** [[arXiv](https://arxiv.org/pdf/2406.01257)]   -->
+- **What makes unlearning hard and what to do about it** <a href="https://arxiv.org/pdf/2406.01257" style="text-decoration:none;">[arXiv]</a>  
 <u>Kairan Zhao</u>, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou  
 <span style="color:gray;">_NeurIPS 2024_</span>
 
