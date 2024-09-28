@@ -13,6 +13,11 @@ author_profile: true
 
 *NeurIPS 2024.*
 
+- **[What makes unlearning hard and what to do about it](https://arxiv.org/pdf/2406.01257)**  
+  <span style="color:blue;"><u>Kairan Zhao</u></span>, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou.  
+  _NeurIPS 2024._
+
+
 * [Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition](https://arxiv.org/pdf/2406.09073)
 
 Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurmanji, **Kairan Zhao**, Vincent Dumoulin, Julio Jacques Junior, Ioannis Mitliagkas, Jun Wan, Lisheng Sun Hosoya, Sergio Escalera, Gintare Karolina Dziugaite, Peter Triantafillou, Isabelle Guyon.
@@ -25,4 +30,4 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
 
 **Kairan Zhao**, Meng Zhang, Rongxing Lu, Chao Shen
 
-IEEE Transactions on Vehicular Technology, 2022.
+*IEEE Transactions on Vehicular Technology, 2022.*
