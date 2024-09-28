@@ -28,7 +28,7 @@ I'm particularly interested in understanding how memorization, generalization, a
 <!-- ------ -->
 <!-- ====== -->
 
-[**Sep 2024**] Our paper [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257/) is accepted at NeurIPS 2024!
+[**Sep 2024**] Our paper [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) is accepted at NeurIPS 2024!
 
 [**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
 
