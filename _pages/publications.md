@@ -21,13 +21,13 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
 
 <!-- - **NeurIPS 2023 - Machine Unlearning Competition**  [[NeurIPS](https://neurips.cc/virtual/2023/competition/66581) | [Project page](https://unlearning-challenge.github.io) | [Kaggle](https://kaggle.com/competitions/neurips-2023-machine-unlearning)]   -->
 - **NeurIPS 2023 - Machine Unlearning Competition**
-  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none;">[NeurIPS]</a> | 
-  <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">[Project page]</a> | 
-  <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none;">[Kaggle]</a>  
+  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none;">[NeurIPS</a> | 
+  <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">Project page</a> | 
+  <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none;">Kaggle]</a>  
   Eleni Triantafillou, Fabian Pedregosa, Jamie Hayes, Peter Kairouz, Isabelle Guyon, Meghdad Kurmanji, Gintare Karolina Dziugaite, Peter Triantafillou, <u>Kairan Zhao</u>, Lisheng Sun Hosoya, Julio C. S. Jacques Junior, Vincent Dumoulin, Ioannis Mitliagkas, Sergio Escalera, Jun Wan, Sohier Dane, Maggie Demkin, Walter Reade
 
 **Pre-PhD**
 
-- **A Secure Intra-Regional-Inter-Regional Peer-to-Peer Electricity Trading System for Electric Vehicles** [[paper](https://ieeexplore.ieee.org/abstract/document/9891809)]  
+- **A Secure Intra-Regional-Inter-Regional Peer-to-Peer Electricity Trading System for Electric Vehicles** <a href="https://ieeexplore.ieee.org/abstract/document/9891809" style="text-decoration:none;">[paper]</a>  
 <u>Kairan Zhao</u>, Meng Zhang, Rongxing Lu, Chao Shen  
 <span style="color:gray;">_IEEE Transactions on Vehicular Technology, 2022_
