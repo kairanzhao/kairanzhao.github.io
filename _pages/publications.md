@@ -22,7 +22,7 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
 <!-- - **NeurIPS 2023 - Machine Unlearning Competition**  [[NeurIPS](https://neurips.cc/virtual/2023/competition/66581) | [Project page](https://unlearning-challenge.github.io) | [Kaggle](https://kaggle.com/competitions/neurips-2023-machine-unlearning)]   -->
 - **NeurIPS 2023 - Machine Unlearning Competition**  
   <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none; color:blue;">NeurIPS</a>
-  <span style="color:blue;"> | </span>
+  <span style="color:cyan;"> | </span>
   <a href="https://unlearning-challenge.github.io" style="text-decoration:none; color:blue;">Project page</a>
   <span style="color:blue;"> | </span>
   <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none; color:blue;">Kaggle</a>  
