@@ -21,14 +21,14 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
 
 <!-- - **NeurIPS 2023 - Machine Unlearning Competition**  [[NeurIPS](https://neurips.cc/virtual/2023/competition/66581) | [Project page](https://unlearning-challenge.github.io) | [Kaggle](https://kaggle.com/competitions/neurips-2023-machine-unlearning)]   -->
 - **NeurIPS 2023 - Machine Unlearning Competition**  
-  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none; color:blue;">[NeurIPS</a>
-  <span style="color:cyan;"> | </span>
-  <a href="https://unlearning-challenge.github.io" style="text-decoration:none; color:blue;">Project page</a>
-  <span style="color:blue;"> | </span>
-  <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none; color:blue;">Kaggle]</a>  
+  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none;">[NeurIPS</a>
+  <span style="text-decoration: none;"> | </span>
+  <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">Project page</a>
+  <span style="text-decoration: none;"> | </span>
+  <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none;">Kaggle]</a>
 <!-- - **NeurIPS 2023 - Machine Unlearning Competition**
-  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none;">[NeurIPS</a> | 
-  <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">Project page</a> | 
+  <a href="https://neurips.cc/virtual/2023/competition/66581" style="text-decoration:none;">[NeurIPS |</a> 
+  <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">Project page |</a> 
   <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none;">Kaggle]</a>   -->
   Eleni Triantafillou, Fabian Pedregosa, Jamie Hayes, Peter Kairouz, Isabelle Guyon, Meghdad Kurmanji, Gintare Karolina Dziugaite, Peter Triantafillou, <u>Kairan Zhao</u>, Lisheng Sun Hosoya, Julio C. S. Jacques Junior, Vincent Dumoulin, Ioannis Mitliagkas, Sergio Escalera, Jun Wan, Sohier Dane, Maggie Demkin, Walter Reade
 
