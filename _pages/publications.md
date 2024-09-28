@@ -15,7 +15,7 @@ author_profile: true
 <u>Kairan Zhao</u>, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou  
 <span style="color:gray;">_NeurIPS 2024_</span>
 
-- **Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition** [arXiv](https://arxiv.org/pdf/2406.09073)**
+- **Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition** [arXiv](https://arxiv.org/pdf/2406.09073)  
 Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurmanji, **Kairan Zhao**, Vincent Dumoulin, Julio Jacques Junior, Ioannis Mitliagkas, Jun Wan, Lisheng Sun Hosoya, Sergio Escalera, Gintare Karolina Dziugaite, Peter Triantafillou, Isabelle Guyon
 
 <!-- - **NeurIPS 2023 - Machine Unlearning Competition** [NeurIPS](https://neurips.cc/virtual/2023/competition/66581)[Project page]  
