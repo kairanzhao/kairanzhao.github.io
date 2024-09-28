@@ -28,6 +28,8 @@ I'm particularly interested in understanding how memorization, generalization, a
 <!-- ------ -->
 <!-- ====== -->
 
+[**Sep 2024**] Our paper [What makes unlearning hard and what to do about it](https://arxiv.org/pdf/2406.01257) is accepted at NeurIPS 2024!
+
 [**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
 
 [**Jan 2023**] I started my PhD in machine learning at the University of Warwick!
