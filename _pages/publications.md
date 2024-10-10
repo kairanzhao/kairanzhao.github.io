@@ -18,7 +18,7 @@ author_profile: true
 
 - **Scalability of memorization-based machine unlearning** <a href="https://openreview.net/pdf?id=VX9HGFiFF1" style="text-decoration:none;">[link]</a>  
 <u>Kairan Zhao</u>, Peter Triantafillou  
-<span style="color:gray;">_NeurIPS 2024_</span>
+<span style="color:gray;">_NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)_</span>
 
 - **Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition** <a href="https://arxiv.org/abs/2406.09073" style="text-decoration:none;">[arXiv]</a>  
 Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurmanji, <u>Kairan Zhao</u>, Vincent Dumoulin, Julio Jacques Junior, Ioannis Mitliagkas, Jun Wan, Lisheng Sun Hosoya, Sergio Escalera, Gintare Karolina Dziugaite, Peter Triantafillou, Isabelle Guyon
