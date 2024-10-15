@@ -32,6 +32,8 @@ I'm particularly interested in understanding how memorization, generalization, a
 - [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) (NeurIPS 2024 main conference)
 - [Scalability of memorization-based machine unlearning](https://openreview.net/forum?id=VX9HGFiFF1&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FFITML%2FAuthors%23your-submissions)) (NeurIPS 2024 FITML Workshop)
 
+[**Jun 2024**] New Preprint: Post-Analysis of the Machine Unlearning Competition now available on [arXiv](https://arxiv.org/abs/2406.09073)
+
 [**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)!
 
 [**Jan 2023**] I started my PhD in machine learning at the University of Warwick!
