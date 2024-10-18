@@ -34,7 +34,7 @@ I'm particularly interested in understanding how memorization, generalization, a
 
 [**Jun 2024**] New Preprint: Post-Analysis of the Machine Unlearning Competition now available on [arXiv](https://arxiv.org/abs/2406.09073).
 
-[**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)! ([Project page](https://unlearning-challenge.github.io) [NeurIPS](https://neurips.cc/virtual/2023/competition/66581))
+[**Sep 2023**] Our NeurIPS 2023 Machine Unlearning Competition is now live on [Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)! ([Project page](https://unlearning-challenge.github.io) [NeurIPS workshop](https://neurips.cc/virtual/2023/competition/66581))
 
 [**Jan 2023**] I started my PhD in machine learning at the University of Warwick!
 
