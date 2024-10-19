@@ -35,4 +35,4 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
 
 - **A Secure Intra-Regional-Inter-Regional Peer-to-Peer Electricity Trading System for Electric Vehicles** <a href="https://ieeexplore.ieee.org/abstract/document/9891809" style="text-decoration:none;">[paper]</a>  
 <u>Kairan Zhao</u>, Meng Zhang, Rongxing Lu, Chao Shen  
-<span style="color:gray;">_IEEE Transactions on Vehicular Technology, 2022_
+<span style="color:gray;">_IEEE Transactions on Vehicular Technology, 2022_</span>
