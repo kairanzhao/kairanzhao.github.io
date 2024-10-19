@@ -29,7 +29,7 @@ Eleni Triantafillou, Peter Kairouz, Fabian Pedregosa, Jamie Hayes, Meghdad Kurma
   <a href="https://unlearning-challenge.github.io" style="text-decoration:none;">[Project page]</a>
   <a href="https://kaggle.com/competitions/neurips-2023-machine-unlearning" style="text-decoration:none;">[Kaggle]</a>  
   Eleni Triantafillou, Fabian Pedregosa, Jamie Hayes, Peter Kairouz, Isabelle Guyon, Meghdad Kurmanji, Gintare Karolina Dziugaite, Peter Triantafillou, <u>Kairan Zhao</u>, Lisheng Sun Hosoya, Julio C. S. Jacques Junior, Vincent Dumoulin, Ioannis Mitliagkas, Sergio Escalera, Jun Wan, Sohier Dane, Maggie Demkin, Walter Reade
-  <span style="color:gray;">_NeurIPS 2023_</span>
+<span style="color:gray;">_NeurIPS 2023_</span>
 
 **Pre-PhD**
 
