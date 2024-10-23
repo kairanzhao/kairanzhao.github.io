@@ -16,7 +16,7 @@ author_profile: true
 <u>Kairan Zhao</u>, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou  
 <span style="color:gray;">_NeurIPS 2024_</span>
 
-- **Scalability of memorization-based machine unlearning** <a href="https://openreview.net/pdf?id=VX9HGFiFF1" style="text-decoration:none;">[link]</a>  
+- **Scalability of memorization-based machine unlearning** <a href="https://arxiv.org/abs/2410.16516" style="text-decoration:none;">[arXiv]</a>  
 <u>Kairan Zhao</u>, Peter Triantafillou  
 <span style="color:gray;">_NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)_</span>
 
