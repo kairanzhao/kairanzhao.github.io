@@ -14,7 +14,7 @@ author_profile: true
 <!-- - **What makes unlearning hard and what to do about it** [[arXiv](https://arxiv.org/pdf/2406.01257)]   -->
 - **What makes unlearning hard and what to do about it** <a href="https://arxiv.org/abs/2406.01257" style="text-decoration:none;">[arXiv]</a>  
 <u>Kairan Zhao</u>, Meghdad Kurmanji, George-Octavian Bărbulescu, Eleni Triantafillou, Peter Triantafillou  
-<span style="color:gray;">_NeurIPS 2024 (Oral presentation at NeurIP@Paris 2024)_</span>
+<span style="color:gray;">_NeurIPS 2024 <span style="color:blue;">(Oral presentation at NeurIP@Paris 2024)</span>_</span>
 
 - **Scalability of memorization-based machine unlearning** <a href="https://arxiv.org/abs/2410.16516" style="text-decoration:none;">[arXiv]</a>  
 <u>Kairan Zhao</u>, Peter Triantafillou  
