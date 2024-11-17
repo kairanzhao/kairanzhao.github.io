@@ -28,6 +28,8 @@ I'm particularly interested in understanding how memorization, generalization, a
 <!-- ------ -->
 <!-- ====== -->
 
+[**Nov 2024**] I will be attending NeurIPS@Paris to present our work, [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257), in both a poster session and an invited oral presentation.
+
 [**Sep 2024**] Two papers have been accepted at NeurIPS 2024!
 - [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) (NeurIPS 2024 main conference)
 - [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516)) (NeurIPS 2024 FITML Workshop)
