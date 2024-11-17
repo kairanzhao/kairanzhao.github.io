@@ -14,7 +14,7 @@ I am a PhD candidate in Machine Learning at the University of Warwick supervised
 I received my master's degree in Control Engineering from Xi'an Jiaotong University, under the supervision of [Prof. Chao Shen](https://gr.xjtu.edu.cn/web/cshen/home), [Prof. Meng Zhang](https://gr.xjtu.edu.cn/web/mengzhang2009) and [Prof. Xiaohong Guan](https://ieeecss.org/contact/xiaohong-guan). I also hold a diplôme d’ingénieur from [École Centrale de Lille](https://centralelille.fr/en/) in France.
 
 
-More info about my background can be found in my [CV](../assets/CV-Kairan Zhao.pdf).
+More info about my background can be found in my [CV](../assets/CV-Kairan Zhao.pdf) (last updated Nov. 2024).
 
 ## Research Interests
 
